@@ -1,0 +1,10 @@
+.header-container {
+  background-color: #292929 !important;
+}
+
+.header-container .header-button {
+  color: #c3c3c3 !important;
+  text-transform: capitalize !important;
+  font-weight: 400 !important;
+  font-size: 18px !important;
+}

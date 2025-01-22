@@ -1,0 +1,502 @@
+{
+  "data": [
+    {
+      "id": "f3de",
+      "day": "1",
+      "data": [
+        {
+          "Timestamp": 45673.958126620375,
+          "Name": "Laksh Kaushal",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort school Dwarka, New Delhi sector 7",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "Hoping for it to be competitive and good",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Very Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Negotiation and diplomacy, Leadership, Drafting resolutions",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.95837143519,
+          "Name": "SHAMBHAVI PANIGRAHI ",
+          "Committee Name": "UNCSW",
+          "School Name": "OPG WORLD SCHOOL ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "i think its going to be very educative and fun !!",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Drafting resolutions",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.95840241898,
+          "Name": "Dev Gupta",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "It should be fun and intresting",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "Somewhat relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis, Drafting resolutions",
+            "sentiment": "Neutral"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.95865428241,
+          "Name": "ansh jha",
+          "Committee Name": "UNSC",
+          "School Name": "maxfort school dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "noidea",
+            "sentiment": "Negative"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "Somewhat relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Negotiation and diplomacy, Leadership",
+            "sentiment": "Positive"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.95869630787,
+          "Name": "Khush Vadera",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "I expect the committee to be very solution-driven, and I aim to learn as much as possible.",
+            "sentiment": "Negative"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Negotiation and diplomacy",
+            "sentiment": "Neutral"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.959151504634,
+          "Name": "Prakhar Bhassin",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School Dwarka ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "It was very good and I’m feeling very confident for it!!",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Very Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Negotiation and diplomacy, Leadership, Drafting resolutions",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.959178125,
+          "Name": "angel sharma",
+          "Committee Name": "IP",
+          "School Name": "itl public school",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "genuinely idk",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis, Leadership",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.959183750005,
+          "Name": "Divyansh Pattanaik ",
+          "Committee Name": "IP",
+          "School Name": "Maxfort school Dwarka ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "I expect today’s MUN experience to be a great opportunity to learn about diplomacy, international relations, and problem-solving on global issues. I look forward to collaborating with other delegates, exchanging perspectives, and developing my public speaking and negotiation skills. Overall, I’m excited to contribute meaningfully and gain insights that will help me grow both personally and academically.",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Very Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Negotiation and diplomacy, Leadership, Drafting resolutions",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.959678935185,
+          "Name": "Meharpreet ",
+          "Committee Name": "UNCSW",
+          "School Name": "Meharpreet ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "That they go well and don't waste too much time explaining the rops ",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "Somewhat relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis",
+            "sentiment": "Positive"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.95972866898,
+          "Name": "Ishan Modak ",
+          "Committee Name": "UNCSW",
+          "School Name": "BGS international public school",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "To learn something from it and have a great time. ",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "Somewhat relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis, Negotiation and diplomacy, Leadership",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.95977048611,
+          "Name": "Udbhav Singh ",
+          "Committee Name": "UNHRC",
+          "School Name": "OPG World school",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "To have a good and diplomatic conference with all fellow delegates",
+            "sentiment": "Negative"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Negotiation and diplomacy, Leadership",
+            "sentiment": "Neutral"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.96023835648,
+          "Name": "Vihaan Kumar",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "I feel that the MUN session will be highly analytical with great competition and will help me in future.",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis, Leadership, Drafting resolutions",
+            "sentiment": "Neutral"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.96053635416,
+          "Name": "Vidissha Chahar ",
+          "Committee Name": "UNCSW",
+          "School Name": "Mount Carmel School ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "every delegate should be present and active and also the food should be good ",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.960634166666,
+          "Name": "Ishaani ",
+          "Committee Name": "UNHRC",
+          "School Name": "Maxfort School Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "A strong platform to network, learn and have a strong debate on international discussions. ",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Negotiation and diplomacy",
+            "sentiment": "Positive"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.96104090278,
+          "Name": "Nivareti Razdan",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "As someone who is a first-timer in an MUN, I expect everything to go smoothly and give great speeches. I am hoping that our school has created a great environment to carry out the MUN. Looking forward to a great first MUN!",
+            "sentiment": "Negative"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Negotiation and diplomacy, Leadership",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.96111173611,
+          "Name": "Karan Dwivedi",
+          "Committee Name": "UNCSW",
+          "School Name": "BGS International Public School",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "Nothing Much, hope it's good. Really hope the socials are good. Expecting the markings not to be biased to Maxfort students.",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Negotiation and diplomacy, Leadership, Drafting resolutions",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.9612175463,
+          "Name": "Pragati Gupta",
+          "Committee Name": "UNSC",
+          "School Name": "Pragati public school",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "That I'll get a lot of experience and knowledge",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Leadership",
+            "sentiment": "Positive"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.96260491898,
+          "Name": "Avani jain",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "It will be going to be a blast tomorrow and I know that every single will take care of. ",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.96510177084,
+          "Name": "Alakshendra Singh Naruka",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "No MUN session attended yet.",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Somewhat Poorly",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis, Drafting resolutions",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.96552695602,
+          "Committee Name": "UNSC",
+          "School Name": "Maxfort School Dwarka ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "MUN sessions should be helpful and provide me the relevant research material.",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.96610288194,
+          "Name": "Prabhnoor Kaur",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School ,Dwarka",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "I feel that this would be place to learn many things in a fun and an interactive method ",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.969320289354,
+          "Name": "Rudra Pratap Singh",
+          "Committee Name": "FIFA",
+          "School Name": "Maxfort School Dwarka ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "I want to have fun, enjoy and lear new things",
+            "sentiment": "Negative"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Research and analysis",
+            "sentiment": "Positive"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.969699444446,
+          "Name": "Kanak Kaur ",
+          "Committee Name": "UNCSW",
+          "School Name": "Maxfort School Dwarka ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "An exciting session with intense debates and collaboration ",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis, Negotiation and diplomacy, Leadership",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.970994097224,
+          "Name": "Shreesh Varma",
+          "Committee Name": "IP",
+          "School Name": "Maxfort school",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "It should not be too crowded ",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.9713678588,
+          "Name": "Ayushi Gupta",
+          "Committee Name": "IP",
+          "School Name": "Air Force Golden Jubilee Institute ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "It will be fun and i will get to meet new people",
+            "sentiment": "Negative"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.973895868054,
+          "Name": "Siya Maurya",
+          "Committee Name": "UNCSW",
+          "School Name": "Maxfort School Dwarka ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "Good experience ",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Somewhat Poorly",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.97781780093,
+          "Name": "Veda Behera ",
+          "Committee Name": "UNHRC",
+          "School Name": "Maxfort School Dwarka ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "To learn about my portfolio.... And ofc to win the award... 😉",
+            "sentiment": "Positive"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Very Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Public speaking, Leadership",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        },
+        {
+          "Timestamp": 45673.98197840278,
+          "Name": "Diya Mohan",
+          "Committee Name": "IP",
+          "School Name": "Loreto convent ",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "Informative and fun sessions with the fellow delegates ",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Effectively",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Yes"
+        },
+        {
+          "Timestamp": 45673.98606894676,
+          "Name": "VANI SHARMA",
+          "Committee Name": "UNSC",
+          "School Name": "OPG World School",
+          " What are your expectations from today’s MUN sessions?  ": {
+            "text": "I hope for it to be a fruitful committee",
+            "sentiment": "Neutral"
+          },
+          "  Do you feel the agenda/topic of your committee is relevant and important?  ": "YES, it’s highly relevant.",
+          " How confident are you about your research and preparation?  ": "Moderately",
+          "What skills are you most excited to practice during today’s MUN?\n(Select all that apply)": {
+            "text": "Research and analysis, Negotiation and diplomacy",
+            "sentiment": "Negative"
+          },
+          "Do you feel you understand the rules and procedures of MUN?  ": "Maybe"
+        }
+      ]
+    }
+  ]
+}

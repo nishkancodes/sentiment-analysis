@@ -1,0 +1,70 @@
+.upload-excel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.upload-excel-container .upload-excel-wrapper {
+  /* width: 400px;
+  height: 400px; */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.upload-excel-container .upload-excel-wrapper .from-control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.upload-excel-container .upload-excel-wrapper .from-control label {
+  margin-bottom: 10px;
+}
+
+.upload-excel-container .upload-excel-wrapper .from-control label span {
+  color: red;
+  font-weight: bold;
+}
+
+.upload-excel-container .upload-excel-wrapper .from-control input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+.upload-excel-container .upload-excel-wrapper .from-control button {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.upload-excel-container .upload-excel-wrapper .from-control button:hover {
+  background-color: #0069d9;
+}
+
+.upload-excel-container .upload-excel-wrapper table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.upload-excel-container .upload-excel-wrapper table th,
+.upload-excel-container .upload-excel-wrapper table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.limited-text {
+  white-space: nowrap; /* Prevent text from wrapping to the next line */
+  overflow: hidden; /* Hide any text that overflows the cell */
+  text-overflow: ellipsis; /* Display ellipsis (...) when text is truncated */
+  max-width: 150px; /* You can set the maximum width as per your needs */
+}

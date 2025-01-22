@@ -1,0 +1,10 @@
+.pie-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.pie-table  th,
+.pie-table td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
