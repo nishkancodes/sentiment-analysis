@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sentiment-analysis/static/css/main.48ebafc6.css",
-    "main.js": "/sentiment-analysis/static/js/main.d5aef94a.js",
+    "main.js": "/sentiment-analysis/static/js/main.fe841c2f.js",
     "static/js/488.ce4fc4a2.chunk.js": "/sentiment-analysis/static/js/488.ce4fc4a2.chunk.js",
     "index.html": "/sentiment-analysis/index.html",
     "main.48ebafc6.css.map": "/sentiment-analysis/static/css/main.48ebafc6.css.map",
-    "main.d5aef94a.js.map": "/sentiment-analysis/static/js/main.d5aef94a.js.map",
+    "main.fe841c2f.js.map": "/sentiment-analysis/static/js/main.fe841c2f.js.map",
     "488.ce4fc4a2.chunk.js.map": "/sentiment-analysis/static/js/488.ce4fc4a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48ebafc6.css",
-    "static/js/main.d5aef94a.js"
+    "static/js/main.fe841c2f.js"
   ]
 }
